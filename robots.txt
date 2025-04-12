@@ -1,0 +1,6 @@
+# robots.txt for https://blueprince.top
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://blueprince.top/sitemap.xml 
